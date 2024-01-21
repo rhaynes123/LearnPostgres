@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RfryVfVHZjH3a+Oii1OF3kFGWYLpE7Jj2YgVgxv7ib9Jf8OM8XhF2NVlDiab0bFglEs/DiniPOilkQBiozTILA==",
+  "dgSpecHash": "5fkfHkGCpMs71Oq4rS4s4USn4vovcdMrIpO0VIn15ifKc54eN0tQ9FSvMolp/HhKPePqjqO2+xcJeA+ZS/RMCw==",
   "success": true,
-  "projectFilePath": "/Users/richardhaynes/Developer/Projects/C#/ItemsApi/ItemsApi.csproj",
+  "projectFilePath": "/Users/richardhaynes/Developer/Projects/C#/LearnPostgres/Items/ItemsApi/ItemsApi.csproj",
   "expectedPackageFiles": [
     "/Users/richardhaynes/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/8.0.1/microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.1.nupkg.sha512",
     "/Users/richardhaynes/.nuget/packages/microsoft.entityframeworkcore/8.0.1/microsoft.entityframeworkcore.8.0.1.nupkg.sha512",

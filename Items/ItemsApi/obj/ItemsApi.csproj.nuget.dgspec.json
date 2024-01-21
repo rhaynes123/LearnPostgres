@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/richardhaynes/Developer/Projects/C#/ItemsApi/ItemsApi.csproj": {}
+    "/Users/richardhaynes/Developer/Projects/C#/LearnPostgres/Items/ItemsApi/ItemsApi.csproj": {}
   },
   "projects": {
-    "/Users/richardhaynes/Developer/Projects/C#/ItemsApi/ItemsApi.csproj": {
+    "/Users/richardhaynes/Developer/Projects/C#/LearnPostgres/Items/ItemsApi/ItemsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/richardhaynes/Developer/Projects/C#/ItemsApi/ItemsApi.csproj",
+        "projectUniqueName": "/Users/richardhaynes/Developer/Projects/C#/LearnPostgres/Items/ItemsApi/ItemsApi.csproj",
         "projectName": "ItemsApi",
-        "projectPath": "/Users/richardhaynes/Developer/Projects/C#/ItemsApi/ItemsApi.csproj",
+        "projectPath": "/Users/richardhaynes/Developer/Projects/C#/LearnPostgres/Items/ItemsApi/ItemsApi.csproj",
         "packagesPath": "/Users/richardhaynes/.nuget/packages/",
-        "outputPath": "/Users/richardhaynes/Developer/Projects/C#/ItemsApi/obj/",
+        "outputPath": "/Users/richardhaynes/Developer/Projects/C#/LearnPostgres/Items/ItemsApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/richardhaynes/.nuget/NuGet/NuGet.Config"
